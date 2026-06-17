@@ -25,7 +25,7 @@ Download a PDF of my full CV [here](https://jenna-a-lee.github.io/files/JLee_CV_
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Research & Work Experience
+## Recent Research Experience
 ---
 * **Lab Specialist** (2026 - present)  
   *Dept. of Geosciences, Princeton University*  
@@ -47,7 +47,7 @@ procedures.
 particulate organic carbon, nitrogen, and phosphorus, and sample preparation for eDNA
   
   
-## Talks
+## Conferences
 ---
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -60,9 +60,10 @@ particulate organic carbon, nitrogen, and phosphorus, and sample preparation for
   {% endfor %}</ul>
   
   
-Service and leadership
+## Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Service Work**
+* **Outreach**
 
 ## Skills
 ---
