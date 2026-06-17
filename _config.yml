@@ -32,6 +32,20 @@ author:
   uri              : # URL
   email            : "jennaal@princeton.edu" 
 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-square-envelope"
+      url: "mailto:jennaal@princeton.edu"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-square-linkedin"
+      url: "https://www.linkedin.com/in/jenna-a-lee/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=5lsI6a0AAAAJ&hl=en&oi=sra"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-2261-8886"
+
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
