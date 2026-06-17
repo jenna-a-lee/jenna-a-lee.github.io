@@ -15,13 +15,13 @@ Education
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
-* Ph.D. - Princeton University Dept. of Geosciences, 2025
+* Ph.D. - Princeton University Dept. of Geosciences, 2025\n
   Graduate Advisor: Bess B. Ward
-* M.A. - Princeton University Dept. of Geosciences, 2021
+* M.A. - Princeton University Dept. of Geosciences, 2021\n
   Graduate Advisor: Bess B. Ward
-* B.Sc. (Honors) - UC Irvine Dept. of Earth System Science, 2018
-  Dual Specialization: Oceanography and Hydrology & Terrestrial Ecosystems
-  Minor: Global Sustainability
+* B.Sc. (Honors) - UC Irvine Dept. of Earth System Science, 2018\n
+  Dual Specialization: Oceanography and Hydrology & Terrestrial Ecosystems\n
+  Minor: Global Sustainability\n
   Undergraduate Advisors: Adam C. Martiny & François Primeau
 
 
