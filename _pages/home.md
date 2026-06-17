@@ -6,16 +6,15 @@ header:
   overlay_image: /photos/CB2022_1_header.jpg
 
 excerpt: >
-  Test text -- Hi, I'm Jenna!<br />
+  About Me<br />
       
 ---
-Testing testing...
+Hello there!  
+I'm Jenna, a PhD graduate from Princeton University with over six years of experience in marine phytoplankton community dynamics research, focusing on microbial communities and their role in global biogeochemical processes. 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+My current research is on marine phytoplankton bloom dynamics, with a broader interest in microbial communities and their role in modulating global biogeochemical processes under changing environmental conditions. I use a variety of techniques, including isotopic tracer labeling, eDNA analysis, and microbial networks to investigate the drivers of community structure and microbial interactions, both with each other and with their environment.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm committed to advancing understanding of oceanography and microbial ecology and dedicated to fostering inclusive and engaging learning environments. I have developed and delivered course materials on oceanography and climate science, integrating hands-on instruction and active learning methods to support student growth in scientific communication and experimental design.
 
-A data-driven personal website
-======
 
 {% include feature_row %}
