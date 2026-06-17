@@ -9,6 +9,7 @@ excerpt: >
   About Me<br />
       
 ---
+<img src='/images/photos/IMG_1728.jpg'>
 Hello there!  
 I'm Jenna, a PhD graduate from Princeton University with over six years of experience in marine phytoplankton community dynamics research, focusing on microbial communities and their role in global biogeochemical processes. 
 
