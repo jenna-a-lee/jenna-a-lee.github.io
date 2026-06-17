@@ -11,10 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 * Ph.D. - Princeton University Dept. of Geosciences, 2025  
   Graduate Advisor: Bess B. Ward
 * M.A. - Princeton University Dept. of Geosciences, 2021  
