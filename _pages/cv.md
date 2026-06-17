@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download PDF [here](jenna-a-lee.github.io/files/JLee_CV_June2026.pdf)
 
 ## Education
 * Ph.D. - Princeton University Dept. of Geosciences, 2025  
