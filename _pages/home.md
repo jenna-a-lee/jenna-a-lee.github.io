@@ -9,8 +9,10 @@ excerpt: >
   About Me<br />
       
 ---
-<img src='/images/photos/IMG_1728.jpg'>
+<img src='/images/photos/IMG_1728.jpg'>  
+
 Hello there!  
+
 I'm Jenna, a PhD graduate from Princeton University with over six years of experience in marine phytoplankton community dynamics research, focusing on microbial communities and their role in global biogeochemical processes. 
 
 My current research is on marine phytoplankton bloom dynamics, with a broader interest in microbial communities and their role in modulating global biogeochemical processes under changing environmental conditions. I use a variety of techniques, including isotopic tracer labeling, eDNA analysis, and microbial networks to investigate the drivers of community structure and microbial interactions, both with each other and with their environment.
