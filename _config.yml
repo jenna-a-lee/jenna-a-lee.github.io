@@ -23,7 +23,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/photos/ProfPic.jpg"
+  avatar           : "images/photos/ProfPic.jpg"
   name             : "Hi there!"
   pronouns         : # example: "she/her"  
   bio              : "I'm Jenna (she/her), a research scientist and educator with a background in marine microbial ecology."
