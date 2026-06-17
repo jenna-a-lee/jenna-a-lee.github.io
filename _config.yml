@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "/images/photos/ProfPic.jpg"
+  name             : "Hi there!"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I'm Jenna (she/her), a research scientist and educator with a background in marine microbial ecology."
+  location         : "Princeton, NJ"
+  employer         : "Princeton University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jennaal@princeton.edu" 
 
   # Academic websites
   academia         : # URL
