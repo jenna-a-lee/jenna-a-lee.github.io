@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Ph.D. - Princeton University Dept. of Geosciences, 2025  
   Graduate Advisor: Bess B. Ward
