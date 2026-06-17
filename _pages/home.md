@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /images/photos/CB2021_8_header.jpeg
+  overlay_image: images/photos/CB2021_8_header.jpeg
 
 excerpt: >
   Test text -- Hi, I'm Jenna!<br />
