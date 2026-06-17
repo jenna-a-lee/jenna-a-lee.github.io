@@ -19,7 +19,12 @@ Download a PDF of my full CV [here](https://jenna-a-lee.github.io/files/JLee_CV_
   *Dual Specialization:* Oceanography and Hydrology & Terrestrial Ecosystems  
   *Minor:* Global Sustainability  
 
-
+## Recent Publications
+---
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 ## Research & Work Experience
 ---
 * **Lab Specialist** (2026 - present)  
@@ -41,11 +46,6 @@ procedures.
   * Performed sample processing, preliminary data analysis, and modeled the diel variability of
 particulate organic carbon, nitrogen, and phosphorus, and sample preparation for eDNA
   
-## Recent Publications
----
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 ## Talks
 ---
