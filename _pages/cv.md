@@ -8,17 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download PDF [here](https://jenna-a-lee.github.io/files/JLee_CV_June2026.pdf)
+Download a PDF of my full CV [here](https://jenna-a-lee.github.io/files/JLee_CV_June2026.pdf)
 
+# Summary
 ## Education
 ---
-* Ph.D. - Princeton University Dept. of Geosciences, 2025  
-  *Graduate Advisor:* Bess B. Ward
-* M.A. - Princeton University Dept. of Geosciences, 2021  
-* B.Sc. (Honors) - UC Irvine Dept. of Earth System Science, 2018  
+* **Ph.D. in Geosciences, 2025** -- Princeton University (Princeton, NJ)
+* **M.A. in Geosciences, 2021** -- Princeton University (Princeton, NJ)  
+* **B.Sc. (Honors) in Earth System Science, 2018** -- University of California, Irvine (Irvine, CA)  
   *Dual Specialization:* Oceanography and Hydrology & Terrestrial Ecosystems  
   *Minor:* Global Sustainability  
-  *Undergraduate Advisors:* Adam C. Martiny & François Primeau
 
 
 ## Research & Work experience
