@@ -1,6 +1,9 @@
 ---
 layout: splash
 permalink: /
+redirect_from: 
+  - /about.html
+  - /about/
 header:
   overlay_color: "#5e616c"
   overlay_image: /photos/CB2022_1_header.jpg
