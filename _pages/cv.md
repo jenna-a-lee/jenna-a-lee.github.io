@@ -21,7 +21,8 @@ Download a PDF of my full CV [here](https://jenna-a-lee.github.io/files/JLee_CV_
 
 ## Recent Publications
 ---
-  <ul>{% for post in site.publications limit:3 reversed %}
+  {% assign reversed_publications = site.publications | reverse %}
+  <ul>{% for post in reversed_publications limit:3 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
