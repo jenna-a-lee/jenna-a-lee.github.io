@@ -46,6 +46,13 @@ procedures.
   * Participated in open ocean research expeditions
   * Performed sample processing, preliminary data analysis, and modeled the diel variability of
 particulate organic carbon, nitrogen, and phosphorus, and sample preparation for eDNA
+
+## Recent Teaching Experience
+---
+  {% assign reversed_teaching = site.teaching | reverse %}
+  <ul>{% for post in reversed_teaching limit:3 %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
   
 
