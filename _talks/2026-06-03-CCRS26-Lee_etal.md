@@ -1,7 +1,7 @@
 ---
 title: "Drivers of temporal co-occurrence patterns and microeukaryote community dynamics in a multispecies diatom bloom"
-collection: talks
-category: Conference Talk
+collection: publications
+category: conferences
 permalink: /talk/2026-06-03-CCRS26-Lee_etal
 excerpt: '<strong>Abstract:</strong> Phytoplankton blooms are responsible for a large fraction of marine carbon fixation and their species composition and succession are modulated by complex abiotic and biotic interactions. Understanding the drivers and mechanisms of phytoplankton blooms...'
 date: 2026-06-03
