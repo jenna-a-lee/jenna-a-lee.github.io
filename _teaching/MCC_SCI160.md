@@ -19,6 +19,4 @@ As a Community College Teaching Fellow, I assisted in teaching and curriculum de
 ---
 The focus of this course deals with aspects of geology, chemistry, physics, climatology, environmental science and biology as tehy apply to the oceans.   The physcal aspects of the world's oceans;  the history of marine exploration, the structure of ocean basins, plate tectonics, the distribution of marine sediments, oceanic circulation and productivity, marine fauna and flora, shore processes, and the effects of deep ocean circulation on world climate will make up the core of course content.  The course will enable students to present science in a social context and to be intelligent participants in important societal discussions that involve environmental issues touching on oceans, climate and coastal zones.
 
-Heading 1
-======
 
