@@ -235,6 +235,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  service:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -276,6 +279,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _service
+  - scope:
+      path: ""
+      type: service
     values:
       layout: single
       author_profile: true
