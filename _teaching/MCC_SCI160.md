@@ -1,5 +1,5 @@
 ---
-title: "Teaching Fellow - Essentials of Oceanography"
+title: "Essentials of Oceanography (Teaching Fellow)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-MCC_SCI160
