@@ -7,9 +7,10 @@ venue: "Middlesex College, Dept. of Natural Sciences"
 date: 2025-01-01
 location: "Edison, NJ, United States"
 ---
+Assisted in teaching and curriculum development for an introductory oceanography course as a Community College Teaching Fellow.
+
 <a href='[https://bg.copernicus.org/articles/22/4743/2025/](https://www.course-catalog.com/mcc/C/2024-2025/course/904)'>Essentials of Oceanography (SCI-160)</a>
 
-As a Community College Teaching Fellow, I assisted in teaching and curriculum development for an introductory oceanography course.
 ## Responsibilities included:
 * Guest lecturing on several topics including seawater density, surface ocean circulation, coastal processes, and an introduction to biological oceanography. Lectures highlighted ocean processes in the context of the global Earth System with a focus on ocean-atmosphere interactions.
 * Developing new course materials such as lecture content and slides, lab exercises, in-class demonstrations, and exam questions. Assisted in updating previous course materials.
