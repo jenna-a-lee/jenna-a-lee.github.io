@@ -92,6 +92,13 @@ publication_category:
   conferences:
     title: 'Conferences'
 
+# Service Category - The following the list of service/outreach categories and their headings
+service_category:
+  service:
+    title: 'Service'
+  outreach:
+    title: 'Outreach'    
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
