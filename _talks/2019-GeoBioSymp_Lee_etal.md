@@ -4,7 +4,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/2019-GeoBioSymp_Lee_etal
 venue: "Southern California Geobiology Symposium 2019"
-date: 2019
+date: 2019-04-10
 location: "CalTech, Pasadena, CA, United States"
 ---
 
