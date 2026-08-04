@@ -2,7 +2,7 @@
 title: "Drivers of temporal co-occurrence patterns and microeukaryote community dynamics in a multispecies diatom bloom"
 collection: talks
 type: "Scientific Talk"
-permalink: /talks/2026-06-03-CCRS26_Lee_etal
+permalink: /talks/2026-CCRS26_Lee_etal
 venue: "Chesapeake Community Research Symposium 2026 (CCRS26)"
 date: 2026-06-03
 location: "Crowne Plaza Hotel, Annapolis, MD, United States."
