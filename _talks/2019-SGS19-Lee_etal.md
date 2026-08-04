@@ -1,7 +1,7 @@
 ---
 title: "Latitudinal variation of particulate organic matter stoichiometry in the Pacific Ocean"
 collection: talks
-category: Conference Poster
+category: Poster
 permalink: /talk/2019-SGS19-Lee_etal
 date: 2019
 venue: 'Southern California Geobiology Symposium 2019'
