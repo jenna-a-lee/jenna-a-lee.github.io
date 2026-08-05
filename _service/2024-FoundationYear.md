@@ -4,7 +4,8 @@ collection: service
 category: outreach
 permalink: /service/Outreach1
 excerpt: 'brief description of outreach event'
-daterange: 2021
+daterange: '2021'
+date: 2021-01-01
 
 ---
 
