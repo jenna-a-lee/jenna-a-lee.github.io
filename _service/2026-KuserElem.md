@@ -16,3 +16,5 @@ Introduced students to the scientific method through hands-on activities (develo
 Utilizing balloons, suction cups (Magdeburg hemispheres), marshmallows in a vacuum chamber, and the candle and water vacuum activity to demonstrate air pressure.
 
  <img src='/images/photos/KuserElem.jpg'>  
+
+ *Elizabeth Leon Palmero (left), Jenna Lee (center), and Samantha Fortin (right) lead a demonstration using Magdeburg hemispheres.*
