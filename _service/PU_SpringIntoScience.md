@@ -1,5 +1,5 @@
 ---
-title: "Spring Into Science"
+title: "Spring Into Science Exhibitor"
 collection: service
 category: outreach
 permalink: /service/PU_SpringIntoScience
