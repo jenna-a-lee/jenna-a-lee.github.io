@@ -12,5 +12,7 @@ excerpt: 'Co-led bilingual scientific demonstrations for English and Spanish spe
 
 Introduced students to the scientific method through hands-on activities (developed by Danielle Schmitt and Gabe Vecchi, Department of Geosciences, Princeton University) related to the physical properties of air. Activities increased in complexity throughout the demonstration. During each activity, students were prompted to engage in various steps of the scientific method.
 
+ <img src='/images/photos/KuserElem.jpg'>  
+
 ## Activities included:
 Utilizing balloons, suction cups (Magdeburg hemispheres), marshmallows in a vacuum chamber, and the candle and water vacuum activity to demonstrate air pressure.
