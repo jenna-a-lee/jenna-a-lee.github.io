@@ -17,4 +17,4 @@ Utilizing balloons, suction cups (Magdeburg hemispheres), marshmallows in a vacu
 
  <img src='/images/photos/KuserElem.jpg'>  
 
- *Elizabeth Leon Palmero (left), Jenna Lee (center), and Samantha Fortin (right) lead a demonstration using Magdeburg hemispheres.*
+ *\[image\] Elizabeth Leon Palmero (left), Jenna Lee (center), and Samantha Fortin (right) lead a demonstration using Magdeburg hemispheres.*
