@@ -19,6 +19,8 @@ Spring into Science is an annual event open to 4th-10th graders and their famili
 
 <img src='/images/photos/SpringIntoScience_2023_AndrewHarrison.jpeg' height="250">  <img src='/images/photos/2025-SIS-Paridhi-Rustogi-Jenna-Lee.jpg' height="250">
 
+ *\[1st image\] Jenna Lee demonstrates cloud formation (photo credit: Andrew Harrison). \[2nd image\] Jenna Lee (center) and Paridhi Rustogi (right) demonstrate microscopy and explain the importance of marine phytoplankton with visitors and their families.*
+
 ## Relevant articles:
-* [2024](https://geosciences.princeton.edu/outreach/geosciences-highlights-april-5th-new-jersey-earthquake-and-effects-ocean-acidification)
-* [2025](https://geosciences.princeton.edu/outreach/exploration-microscopic-marine-organisms-and-volcanic-rocks-3rd-annual-spring-science)
+* [Spring Into Science 2024](https://geosciences.princeton.edu/outreach/geosciences-highlights-april-5th-new-jersey-earthquake-and-effects-ocean-acidification)
+* [Spring Into Science 2025](https://geosciences.princeton.edu/outreach/exploration-microscopic-marine-organisms-and-volcanic-rocks-3rd-annual-spring-science)
