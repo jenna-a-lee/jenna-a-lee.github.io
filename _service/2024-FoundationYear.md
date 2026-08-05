@@ -1,21 +1,19 @@
 ---
-title: "Teaching Demonstration"
+title: "Earth Science Volunteer Teaching"
 collection: service
 category: outreach
 permalink: /service/2024-FoundationYear
 daterange: '2024'
 date: 2024-02-01
-venue: "Princeton University, Dept. of Geosciences"
-excerpt: 'Served as a communications liaison between faculty, post-docs, graduate students, and undergraduates on issues related to departmental community, diversity, and inclusion'
+venue: "Foundation Year Charter School, Trenton, NJ, United States"
+excerpt: 'Instructed K-12 students on applications of the scientific method using hands-on activities and tailored to multiple classes at different grade levels'
 
 ---
 
-Add a description of outreach event.
+Instructed K-12 students on applications of the scientific method using hands-on activities and tailored to multiple classes at different grade levels.
 
-## Responsibilities included:
-* A
-* B
-* C
+## Activities included:
+* Leading students through activities demonstrating respiration and measuring $CO_2$ production by yeast, including skills in hypothesis formulation and graph interpretation
+* Introducing students to microscopy and leading discussions of morphology using phytoplankton slides
 
-<a href='https://link-to-webpage'>More details</a>
 
