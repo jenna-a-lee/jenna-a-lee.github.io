@@ -3,7 +3,6 @@ title: "name of outreach event"
 collection: service
 category: outreach
 permalink: /service/Outreach1
-excerpt: 'brief description of outreach event'
 daterange: '2021'
 date: 2025-01-01
 venue: "location of event"
